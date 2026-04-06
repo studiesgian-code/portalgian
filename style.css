@@ -1,7 +1,7 @@
 body{
-    background-color:#f3f3f3;
+    background:#A52A2A;
     color:#333;
-    width:100%; 
+    width:100%;
     font-family:sans-serif;
     margin:0 auto;
 }
@@ -16,21 +16,21 @@ body{
 }
 
 .jarak{
-       padding:0 2pc;
+    padding:0 2pc;
 }
 
 .menu{
-  background-color:#417aa8;
-  height:50px;
-  line-height:50px;
-  position:relative;
-  weight:90%;
-  margin:0 auto;
-  padding:0 auto;
+    background-color:#E74C3C;
+    height:50px;
+    line-height:50px;
+    position:relative;
+    width:90%;
+    margin:0 auto;
+    padding:0 auto;
 }
 
 .menu ul {
- list-style:none;
+    list-style:none;
 }
 
 .menu ul li a {
@@ -48,7 +48,7 @@ body{
 }
 
 .content{
-    weight:90%;
+    width:90%;
     margin:auto;
     height:420px;
     padding:0.1px;
@@ -80,7 +80,7 @@ body{
     height:420px;
 }
 
-.undecor{
+.undercor{
     text-decoration:none;
 }
 
@@ -88,8 +88,8 @@ body{
     width:90%;
     margin:auto;
     height:40px;
-    line_height:40px;
+    line-height:40px;
     background:#417aa8;
     color:#fff;
-    margin-botton: 1pc;
+    margin-bottom: 1pc;
 }
